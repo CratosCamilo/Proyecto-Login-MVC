@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Proyecto Login MVC .NET.props" />
+</Project>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto Login MVC .NET.csproj": {}
+    "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Proyecto Login MVC .NET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto Login MVC .NET.csproj": {
+    "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Proyecto Login MVC .NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto Login MVC .NET.csproj",
+        "projectUniqueName": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Proyecto Login MVC .NET.csproj",
         "projectName": "Proyecto Login MVC .NET",
-        "projectPath": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto Login MVC .NET.csproj",
+        "projectPath": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Proyecto Login MVC .NET.csproj",
         "packagesPath": "C:\\Users\\caki-\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\obj\\",
+        "outputPath": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caki-\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
