@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\servicios\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:servicios\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,6 +33,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,36 +59,8 @@
       "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\recursos\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:recursos\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\servicios\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:servicios\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|solutionrelative:servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{096C048F-1ECF-4D97-B4E5-0AE126E99E8E}|Proyecto Login MVC .NET.csproj|c:\\users\\caki-\\onedrive\\documents\\proyectos\\proyecto login mvc .net\\proyecto-login-mvc\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -74,123 +78,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T06:18:35.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T06:13:12.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAgwDUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T06:11:05.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T06:06:37.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T00:41:40.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T06:18:36.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T06:16:24.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T06:16:26.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAowBEAAAAlAAAA",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T05:19:09.903Z",
+              "WhenOpened": "2024-04-22T05:47:13.196Z",
               "EditorCaption": ""
             },
             {
@@ -201,14 +101,52 @@
               "RelativeDocumentMoniker": "Views\\Inicio\\IniciarSesion.cshtml",
               "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Inicio\\IniciarSesion.cshtml",
               "RelativeToolTip": "Views\\Inicio\\IniciarSesion.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-21T05:08:32.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDIAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T05:19:09.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T06:16:24.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:41:40.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IUsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Servicios\\Contrato\\IUsuarioService.cs",
               "RelativeDocumentMoniker": "Servicios\\Contrato\\IUsuarioService.cs",
@@ -221,7 +159,109 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Servicios\\Implementacion\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Servicios\\Implementacion\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Servicios\\Implementacion\\UsuarioService.cs",
+              "RelativeToolTip": "Servicios\\Implementacion\\UsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:35:11.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "Controllers\\InicioController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:43:30.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T06:16:26.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T06:06:37.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T06:11:05.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T06:13:12.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T06:18:35.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T06:18:36.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Utilidades.cs",
               "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Recursos\\Utilidades.cs",
               "RelativeDocumentMoniker": "Recursos\\Utilidades.cs",
@@ -229,38 +269,11 @@
               "RelativeToolTip": "Recursos\\Utilidades.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T06:17:31.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T06:17:31.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "InicioController.cs",
-              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Controllers\\InicioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\InicioController.cs",
-              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Controllers\\InicioController.cs",
-              "RelativeToolTip": "Controllers\\InicioController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAUwEoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T00:43:30.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Servicios\\Implementacion\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Servicios\\Implementacion\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Servicios\\Implementacion\\UsuarioService.cs",
-              "RelativeToolTip": "Servicios\\Implementacion\\UsuarioService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T00:35:11.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -268,12 +281,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-21T05:33:18.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T05:33:18.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Registrarse.cshtml",
               "DocumentMoniker": "C:\\Users\\caki-\\OneDrive\\Documents\\Proyectos\\Proyecto Login MVC .NET\\Proyecto-Login-MVC\\Views\\Inicio\\Registrarse.cshtml",
               "RelativeDocumentMoniker": "Views\\Inicio\\Registrarse.cshtml",
@@ -281,8 +293,7 @@
               "RelativeToolTip": "Views\\Inicio\\Registrarse.cshtml",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAACMAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T01:09:16.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T01:09:16.698Z"
             }
           ]
         }

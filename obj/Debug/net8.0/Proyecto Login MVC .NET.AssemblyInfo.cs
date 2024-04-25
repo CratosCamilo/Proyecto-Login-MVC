@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto Login MVC .NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd21e985b3c980f6fe996c8e85db0f8f0dd3b6ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2f38230dbe8dc792fdb8b56a0b57a1f4decd97b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyecto Login MVC .NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyecto Login MVC .NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
